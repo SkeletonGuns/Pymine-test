@@ -1,7 +1,11 @@
 import pygame
 from OpenGL.GL import *
 from OpenGL.GLU import *
+<<<<<<< HEAD
 #GVr
+=======
+
+>>>>>>> parent of b8ee016 (Something)
 class Player:
     def __init__(self):
         self.position = [0, 0, 0]
