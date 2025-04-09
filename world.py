@@ -21,6 +21,7 @@ class World:
             glVertex3f(x - 0.5, y, z + 0.5)
         glEnd()
 
+# something !!!!
 # Вызов генерации мира
 world = World()
 world.generate()
