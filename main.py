@@ -19,7 +19,7 @@ def main():
     gluPerspective(45, (SCREEN_WIDTH / SCREEN_HEIGHT), 0.1, 50.0)
     glTranslatef(0.0, 0.0, -5)
 
-    # Настройка освещения
+    # Настройка освещения vhhjgdutxyhdyjdrfxcfhg
     glEnable(GL_LIGHTING)
     glEnable(GL_LIGHT0)
     glLightfv(GL_LIGHT0, GL_POSITION, (0, 1, 1, 0))
