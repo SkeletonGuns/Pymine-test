@@ -27,3 +27,4 @@ class Player:
                 glVertex3f(x, 0, z)
         glEnd()
         glPopMatrix()
+#MOBS!
