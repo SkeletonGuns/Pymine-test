@@ -1,8 +1,7 @@
 import pygame
 from OpenGL.GL import *
 from OpenGL.GLU import *
-#GVrkogjgipreigjrigjrgjrkldb
-#Gegregegrehuifgwh
+#GVr
 class Player:
     def __init__(self):
         self.position = [0, 0, 0]
